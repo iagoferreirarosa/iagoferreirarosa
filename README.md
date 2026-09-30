@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👾 Iago Ferreira Rosa
+#  Iago Ferreira Rosa
 
 ### `Backend Developer • Full Stack Developer`
 
@@ -14,7 +14,7 @@
 
 ---
 
-## 🧑‍💻 Sobre mim
+##  Sobre mim:
 
 ```python
 class Iago:
@@ -35,34 +35,34 @@ class Iago:
         ]
 
     def say_hi(self):
-        print("Olá! 👋 Seja bem-vindo ao meu GitHub!")
+        print("Olá!  Seja bem-vindo ao meu GitHub!")
 ```
 
-🎯 Atualmente estou focado em evoluir minhas habilidades de **backend**, principalmente criando APIs e trabalhando com bancos de dados.
+ Atualmente estou focado em evoluir minhas habilidades de **backend**, principalmente criando APIs e trabalhando com bancos de dados.
 
-🧠 Gosto de aprender colocando a mão no código e transformando ideias em pequenos projetos.
+ Gosto de aprender colocando a mão no código e transformando ideias em pequenos projetos.
 
-🎮 Também curto tecnologia, games e cultura geek.
+ Também curto tecnologia, games e cultura geek.
 
 ---
 
-# ⚡ Tecnologias
+#  Tecnologias:
 
 <div align="center">
 
-### 💻 Linguagens
+###  Linguagens:
 
 <img src="https://skillicons.dev/icons?i=python,javascript,html,css" />
 
-### 🚀 Frameworks & Bibliotecas
+###  Frameworks & Bibliotecas:
 
 <img src="https://skillicons.dev/icons?i=fastapi,react,vite" />
 
-### 🗄️ Banco de Dados
+###  Banco de Dados:
 
 <img src="https://skillicons.dev/icons?i=mysql" />
 
-### 🛠️ Ferramentas
+###  Ferramentas:
 
 <img src="https://skillicons.dev/icons?i=github,vscode" />
 
@@ -70,7 +70,7 @@ class Iago:
 
 ---
 
-# 🚀 Projetos
+#  Projetos:
 
 <div align="center">
 
@@ -91,19 +91,19 @@ class Iago:
 
 ---
 
-# 📈 Atualmente
+#  Atualmente:
 
 ```text
-🔨 Construindo projetos
-📚 Estudando backend
-🗄️ Aprendendo arquitetura de banco de dados
-⚡ Criando APIs REST
-🎨 Melhorando meus projetos frontend
+ - Construindo projetos
+ - Estudando backend
+ - Aprendendo arquitetura de banco de dados
+ - Criando APIs REST
+ - Melhorando meus projetos frontend
 ```
 
 ---
 
-# 🌐 Onde me encontrar
+#  Onde me encontrar?
 
 <div align="center">
 
@@ -117,7 +117,7 @@ class Iago:
 
 <div align="center">
 
-### 💡 `Code. Learn. Create. Repeat.`
+###  `Code. Learn. Create. Repeat.`
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=00F7FF&height=120&section=footer"/>
 
