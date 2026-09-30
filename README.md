@@ -20,7 +20,7 @@
 class Iago:
 
     def __init__(self):
-        self.name = "Iago Rosa"
+        self.name = "Iago Ferreira Rosa"
         self.role = "Developer"
         self.focus = [
             "Backend",
